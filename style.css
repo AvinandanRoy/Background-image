@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+     height: 700px;
+    
+    background-image: url('images/_126531738_58e6d165-44c4-4bc4-98f2-1f0988c9253e.jpg');
+    background-repeat: no-repeat;
+    background-position:  bottom;
+    background-size: cover;
+}
